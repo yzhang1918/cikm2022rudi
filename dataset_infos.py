@@ -53,19 +53,6 @@ class RedHat:
     sortby_col = 'date'
     kwargs = dict(cat_cols=cat_cols, vocab_sizes=vocab_sizes, sortby_col=sortby_col)
 
-class RedHatStatic:
-    # User: 144639
-    n_train = 114711
-    n_valid = 1000
-    n_test = 28928
-    path = 'red_hat_static_10'
-    cat_cols = 'char_1_people group_1 char_2_people char_3_people char_4_people char_5_people char_6_people char_7_people char_8_people char_9_people char_10_people char_11 char_12 char_13 char_14 char_15 char_16 char_17 char_18 char_19 char_20 char_21 char_22 char_23 char_24 char_25 char_26 char_27 char_28 char_29 char_30 char_31 char_32 char_33 char_34 char_35 char_36 char_37 activity_category char_1_act char_2_act char_3_act char_4_act char_5_act char_6_act char_7_act char_8_act char_9_act char_10_act'.split()
-    vocab_sizes = [3, 11, 4, 11, 11, 10, 8, 11, 9, 10, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 8, 12, 12, 12, 9, 9, 7, 10, 12, 12, 12]
-    num_cols = ['char_38']
-    sortby_col = 'date_act'
-    kwargs = dict(cat_cols=cat_cols, vocab_sizes=vocab_sizes, num_cols=num_cols, sortby_col=sortby_col)
-
-
 class Wiki:
     # User: 8227
     n_train = 5582
