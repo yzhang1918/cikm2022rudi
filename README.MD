@@ -4,7 +4,7 @@ Codes and data for KDD2022 submission.
 
 ## Usage
 
-Un-tar datasets (Due to the large size, we do not include the proposed Elo. One can download the raw dataset and use our provided pre-processing code.)
+Un-tar datasets. (Due to the large size, we do not include the processed Elo. One can download the raw dataset and use our provided pre-processing code.)
 ```
 tar zxf data.tar.gz
 ```
