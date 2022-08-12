@@ -41,3 +41,14 @@ Raw datasets can be downloaded from the following links.
 - RedHat: https://www.kaggle.com/c/predicting-red-hat-business-value/
 
 The pre-processing are included in `data_preprocessing`.
+
+## Cite us
+
+```
+@inproceedings{zhang2022rudi,
+  title={RuDi: Explaining Behavior Sequence Models by Automatic Statistics Generation and Rule Distillation},
+  author={Zhang, Yao and Xiong, Yun and Sun, Yiheng and Shan, Caihua and Lu, Tian and Song, Hui and Zhu, Yangyong},
+  booktitle={31st ACM International Conference on Information and Knowledge Management},
+  year={2022}
+}
+```
