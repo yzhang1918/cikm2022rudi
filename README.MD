@@ -1,6 +1,6 @@
 # RuDi
 
-Codes and data for KDD2022 submission.
+Codes and data for *RuDi: Explaining Behavior Sequence Models by Automatic Statistics Generation and Rule Distillation*.
 
 ## Usage
 
