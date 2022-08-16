@@ -1,6 +1,7 @@
 # RuDi
 
 Codes and data for *RuDi: Explaining Behavior Sequence Models by Automatic Statistics Generation and Rule Distillation*.
+([arXiv](https://arxiv.org/abs/2208.07211))
 
 ## Usage
 
@@ -40,7 +41,7 @@ Raw datasets can be downloaded from the following links.
 - Elo: https://www.kaggle.com/c/elo-merchant-category-recommendation/
 - RedHat: https://www.kaggle.com/c/predicting-red-hat-business-value/
 
-The pre-processing are included in `data_preprocessing`.
+The pre-processing codes are included in `data_preprocessing`.
 
 ## Cite us
 
